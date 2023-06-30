@@ -1,2 +1,3 @@
 # Superstore_sales
-This is a power bi project in which the data is accessed through kaggle. It is the sales data of a superstore.
+This is a dashboard i built on dataset provided on kaggle. Dataset was of global superstore consisting of tables like order, people, and returns.
+
